@@ -29,5 +29,5 @@ A command-line interface (CLI) application built using **Node.js** that allows y
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/vishwa-3005/fs-cli-tool.git
+   git clone https://github.com/vishwa-3005/fsi-cli-tool.git
    cd fs-cli-tool
